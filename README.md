@@ -19,8 +19,6 @@ Btech Cse 3rd year Student @ Hindustan Institute of Technology and Science
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>   <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/> 
 
-![SriDharani's GitHub stats](https://github-readme-stats.vercel.app/api?username=sridharani21&theme=dark&show_icons=true&&hide=issues,contribs)
-
 [![Leetcode Stats](![LeetCode Stats](https://leetcard.jacoblin.cool/sridharani?theme=dark&font=Marcellus&ext=contest))
 
 [![SriDharani's github activity graph]([![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sridharani21&bg_color=030303&color=ffffff&line=ffb3fa&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
