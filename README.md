@@ -43,7 +43,7 @@ Btech Cse 3rd year Student @ Hindustan Institute of Technology and Science
 
 ### Coding Stats & Activity
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sridharani?theme=dark&font=Marcellus&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/sridharani_2005?theme=dark&font=Marcellus&ext=contest" alt="LeetCode Stats" />
 </p>
 
 <p align="center">
