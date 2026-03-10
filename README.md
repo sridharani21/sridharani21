@@ -9,7 +9,7 @@ Btech Cse 3rd year Student @ Hindustan Institute of Technology and Science
 - 💡 Strengthening **problem-solving** and system design skills
 - 🚀 Building real-world AI-powered projects
 - 📚 Improving **backend architecture** and database design
-- ⚡ Fun fact: I know **Japanese**.
+  
 
 ### Connect with me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sridharani21/)
